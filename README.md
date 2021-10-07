@@ -15,6 +15,13 @@ Minecraft Java版で使えるリソースパックです。
 - [OptiFine](https://optifine.net/downloads)
   - 動作確認verはOptiFine HD U G9
 
+## リソースパックとか分かる人向けの説明
+
+1. リソースパックを[ここ](https://github.com/PocVtb/Overlay_shinobu/blob/main/Overlay_shinobu.zip)のページの右下「Download」からダウンロードして下さい。
+1. リソースパックを適用して下さい。※OptiFine必須
+1. マイクラ内で「くり抜かれたかぼちゃ」に金床で`jano`または`shinobu`を含んだ名前を付けて下さい。
+1. くり抜かれたかぼちゃの見た目が蛇ノ道忍さんのオーバーレイっぽくなります。装備すると良い感じになります。
+
 ## 使い方
 
 1. リソースパックを[ここ](https://github.com/PocVtb/Overlay_shinobu/blob/main/Overlay_shinobu.zip)のページの右下「Download」からダウンロードして下さい。
