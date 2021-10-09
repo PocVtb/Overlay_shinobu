@@ -1,30 +1,40 @@
 # Overlay_shinobu
 
-マインクラフトのリソースパックです
+マインクラフト用のリソースパックです
 
 ## 内容
 
 Minecraft Java版で使えるリソースパックです。  
-マイクラ内のアイテムの「くり抜かれたかぼちゃ」の見た目を電子妖精計画の[蛇ノ道忍](https://twitter.com/janomichi4nobu)さんのオーバーレイ衣装風にするものです。  
-**※このリソースパックではゲーム本体とは別にOptiFineが必要になります**
+マイクラ内のアイテムの「くり抜かれたかぼちゃ」の見た目を電子妖精計画の[蛇ノ道忍](https://twitter.com/janomichi4nobu)さんのオーバーレイ衣装風にするものです。
+
+![image](https://user-images.githubusercontent.com/48405660/136654260-1ff9635f-324e-41f7-9c1f-837ed2625447.png)
+
+※[OptiFine版](https://github.com/PocVtb/Overlay_shinobu/blob/main/Overlay_shinobu.zip)と[バニラ版](https://github.com/PocVtb/Overlay_shinobu/blob/main/Overlay_shinobu_vanilla.zip)があります。OptiFine版を使う場合はゲーム本体とは別にOptiFineが必要になります
+
+## バニラ版とOptiFine版の違い
+
+- バニラ版
+  - くり抜いたかぼちゃの見た目が必ず変化。MOD不要。
+- OptiFine版
+  - くり抜いたかぼちゃに金床で特定の名前を付けた場合に見た目が変化。OptiFineの導入が必要。
 
 ## 必要なもの
 
 - Minecraft Java版
   - 動作確認verは1.17.1
-- [OptiFine](https://optifine.net/downloads)
+- [OptiFine](https://optifine.net/downloads) ※OptiFine版のみ
   - 動作確認verはOptiFine HD U G9
 
-## リソースパックとか分かる人向けの説明
+## リソースパックとか分かる人向けの簡単な説明
 
-1. リソースパックを[ここ](https://github.com/PocVtb/Overlay_shinobu/blob/main/Overlay_shinobu.zip)のページの右下「Download」からダウンロードして下さい。
-1. リソースパックを適用して下さい。※OptiFine必須
-1. マイクラ内で「くり抜かれたかぼちゃ」に金床で`jano`または`shinobu`を含んだ名前を付けて下さい。
-1. くり抜かれたかぼちゃの見た目が蛇ノ道忍さんのオーバーレイっぽくなります。装備すると良い感じになります。
+1. リソースパックを[OptiFine版](https://github.com/PocVtb/Overlay_shinobu/blob/main/Overlay_shinobu.zip)または[バニラ版](https://github.com/PocVtb/Overlay_shinobu/blob/main/Overlay_shinobu_vanilla.zip)のページの右下「Download」からダウンロードして下さい。
+2. リソースパックを適用して下さい。
+3. **[OptiFine版のみ]** マイクラ内で「くり抜かれたかぼちゃ」に金床で`jano`または`shinobu`を含んだ名前を付けて下さい。
+4. くり抜かれたかぼちゃの見た目が蛇ノ道忍さんのオーバーレイっぽくなります。装備すると良い感じになります。
 
-## 使い方
+## 使い方について詳しい説明
 
-1. リソースパックを[ここ](https://github.com/PocVtb/Overlay_shinobu/blob/main/Overlay_shinobu.zip)のページの右下「Download」からダウンロードして下さい。
+1. リソースパックを[OptiFine版](https://github.com/PocVtb/Overlay_shinobu/blob/main/Overlay_shinobu.zip)または[バニラ版](https://github.com/PocVtb/Overlay_shinobu/blob/main/Overlay_shinobu_vanilla.zip)のページの右下「Download」からダウンロードして下さい。
 
   ![image](https://user-images.githubusercontent.com/48405660/136390042-d03a304a-d87a-40b1-a3cd-5c50b14e13c1.png)
 
@@ -55,4 +65,11 @@ Minecraft Java版で使えるリソースパックです。
 8. 頭に装備することでそれっぽくなります。
 
   ![image](https://user-images.githubusercontent.com/48405660/136405372-dfa56d89-a97e-45cd-8d1d-f71e92408b2c.png)
+
+## このリソースパックについて
+
+- 一応、改変や再配布などは自由にしていただいて大丈夫です。  
+  ※トラブルを避けるため自作発言だけはおやめ下さい。
+- リソースパックとして使うにあたって特に制限はありませんが、[電子妖精計画](https://www.denshiyousei.com/)および[株式会社DELTA-V](https://www.deltagames.co.jp/)様に迷惑がかかるような、公序良俗に反する使い方などはおやめ下さい。  
+  ※ただし、蛇ノ道忍さん本人による利用は除く。ご本人は如何様にお使い頂いても構いません。
 
