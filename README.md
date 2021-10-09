@@ -9,7 +9,7 @@ Minecraft Java版で使えるリソースパックです。
 
 ![image](https://user-images.githubusercontent.com/48405660/136654260-1ff9635f-324e-41f7-9c1f-837ed2625447.png)
 
-※[OptiFine版](https://github.com/PocVtb/Overlay_shinobu/blob/main/Overlay_shinobu.zip)と[バニラ版](https://github.com/PocVtb/Overlay_shinobu/blob/main/Overlay_shinobu_vanilla.zip)があります。OptiFine版を使う場合はゲーム本体とは別にOptiFineが必要になります
+※[OptiFine版](https://github.com/PocVtb/Overlay_shinobu/blob/main/Overlay_shinobu.zip)と[バニラ版](https://github.com/PocVtb/Overlay_shinobu/blob/main/Overlay_shinobu_vanilla.zip)があります。**OptiFine版を使う場合はゲーム本体とは別にOptiFineが必要になります**
 
 ## バニラ版とOptiFine版の違い
 
@@ -56,7 +56,7 @@ Minecraft Java版で使えるリソースパックです。
 
 5. マインクラフトを起動し「くり抜かれたかぼちゃ」をどうにかして入手します。
 
-6. 予め用意しておいた金床と経験値を使い、くり抜かれたかぼちゃに`jano`または`shinobu`を含めた名前を付けます。
+6. 予め用意しておいた金床と経験値を使い、くり抜かれたかぼちゃに`jano`または`shinobu`を含めた名前を付けます。**OptiFine版のみ**
 
   ![image](https://user-images.githubusercontent.com/48405660/136401566-1700a634-a4e6-46ba-8765-dfbf835e7174.png)
 
